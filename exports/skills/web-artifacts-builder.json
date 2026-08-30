@@ -1,0 +1,17 @@
+{
+  "tenant_id": "default",
+  "name": "web-artifacts-builder",
+  "manifest": {
+    "byte_length": 232,
+    "strings": [
+      "Gtype7gitGname",
+      "web-artifacts-builder7url",
+      "$https://github.com/anthropics/skillsGpath",
+      "skills/web-artifacts-builder7refGmain",
+      "description",
+      "]Build self-contained web artifacts (HTML/JS/CSS) that render as interactive standalone pages."
+    ]
+  },
+  "created_at": "2026-08-29T20:43:26.770Z",
+  "updated_at": "2026-08-29T20:43:26.770Z"
+}

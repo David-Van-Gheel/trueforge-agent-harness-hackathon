@@ -1,0 +1,66 @@
+[
+  {
+    "table": "agent",
+    "row_count": 1
+  },
+  {
+    "table": "kysely_migration",
+    "row_count": 14
+  },
+  {
+    "table": "kysely_migration_lock",
+    "row_count": 1
+  },
+  {
+    "table": "mcp_server",
+    "row_count": 4
+  },
+  {
+    "table": "model_provider",
+    "row_count": 2
+  },
+  {
+    "table": "oauth_pending_authorization",
+    "row_count": 0
+  },
+  {
+    "table": "oauth_token",
+    "row_count": 0
+  },
+  {
+    "table": "sandbox_provider",
+    "row_count": 1
+  },
+  {
+    "table": "session",
+    "row_count": 3
+  },
+  {
+    "table": "session_event",
+    "row_count": 495
+  },
+  {
+    "table": "skill",
+    "row_count": 4
+  },
+  {
+    "table": "thread_capability_state",
+    "row_count": 0
+  },
+  {
+    "table": "thread_context_log",
+    "row_count": 457
+  },
+  {
+    "table": "turn",
+    "row_count": 28
+  },
+  {
+    "table": "turn_thread",
+    "row_count": 29
+  },
+  {
+    "table": "turn_thread_context",
+    "row_count": 621
+  }
+]

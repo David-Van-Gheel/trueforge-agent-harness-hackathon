@@ -1,0 +1,71 @@
+[
+  {
+    "tenant_id": "default",
+    "name": "supabase",
+    "manifest": {
+      "byte_length": 195,
+      "strings": [
+        "Gtype7gitGname",
+        "supabase7url",
+        "(https://github.com/supabase/agent-skillsGpath",
+        "skills/supabase7refGmain",
+        "description",
+        "OQuery and manage a Supabase Postgres database via SQL through the Supabase MCP."
+      ]
+    },
+    "created_at": "2026-08-29T20:43:24.155Z",
+    "updated_at": "2026-08-29T20:43:24.155Z"
+  },
+  {
+    "tenant_id": "default",
+    "name": "tavily-research",
+    "manifest": {
+      "byte_length": 218,
+      "strings": [
+        "Gtype7gitGname",
+        "tavily-research7url",
+        "#https://github.com/tavily-ai/skillsGpath",
+        "skills/tavily-research7refGmain",
+        "description",
+        "\\Run structured web research with the Tavily MCP ",
+        " search, extract, and synthesize sources."
+      ]
+    },
+    "created_at": "2026-08-29T20:42:58.315Z",
+    "updated_at": "2026-08-29T20:42:58.315Z"
+  },
+  {
+    "tenant_id": "default",
+    "name": "web-artifacts-builder",
+    "manifest": {
+      "byte_length": 232,
+      "strings": [
+        "Gtype7gitGname",
+        "web-artifacts-builder7url",
+        "$https://github.com/anthropics/skillsGpath",
+        "skills/web-artifacts-builder7refGmain",
+        "description",
+        "]Build self-contained web artifacts (HTML/JS/CSS) that render as interactive standalone pages."
+      ]
+    },
+    "created_at": "2026-08-29T20:43:26.770Z",
+    "updated_at": "2026-08-29T20:43:26.770Z"
+  },
+  {
+    "tenant_id": "default",
+    "name": "wiki-architect",
+    "manifest": {
+      "byte_length": 222,
+      "strings": [
+        "Gtype7gitGname",
+        "wiki-architect7url",
+        "#https://github.com/microsoft/skillsGpath",
+        "/.github/plugins/deep-wiki/skills/wiki-architect7refGmain",
+        "description",
+        "HPlan and structure a repository wiki / brief from a codebase (DeepWiki)."
+      ]
+    },
+    "created_at": "2026-08-29T20:43:29.857Z",
+    "updated_at": "2026-08-29T20:43:29.857Z"
+  }
+]

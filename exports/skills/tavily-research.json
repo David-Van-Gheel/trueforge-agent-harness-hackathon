@@ -1,0 +1,18 @@
+{
+  "tenant_id": "default",
+  "name": "tavily-research",
+  "manifest": {
+    "byte_length": 218,
+    "strings": [
+      "Gtype7gitGname",
+      "tavily-research7url",
+      "#https://github.com/tavily-ai/skillsGpath",
+      "skills/tavily-research7refGmain",
+      "description",
+      "\\Run structured web research with the Tavily MCP ",
+      " search, extract, and synthesize sources."
+    ]
+  },
+  "created_at": "2026-08-29T20:42:58.315Z",
+  "updated_at": "2026-08-29T20:42:58.315Z"
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "01M17M1EK9ZR0KCXFNWX45FYF2",
+    "tenant_id": "default",
+    "name": "bright-data",
+    "manifest": {
+      "byte_length": 241,
+      "strings": [
+        "GtypegremoteGname",
+        "bright-data7url",
+        "https://mcp.brightdata.com/mcp",
+        "description",
+        "GSearch the web and scrape pages, including sites behind bot protection.Gauth",
+        "RGtypegheaderwheaders",
+        "Authorization",
+        "+Bearer <redacted>"
+      ]
+    },
+    "oauth_server": null,
+    "oauth_client": null,
+    "created_at": "2026-08-29T20:40:37.224Z",
+    "updated_at": "2026-08-29T21:53:20.539Z"
+  },
+  {
+    "id": "01M17M1SKD0NTFXSHYNRRXHZXA",
+    "tenant_id": "default",
+    "name": "exa",
+    "manifest": {
+      "byte_length": 125,
+      "strings": [
+        "{GtypegremoteGname7exa7url",
+        "https://mcp.exa.ai/mcp",
+        "description",
+        "<Search the web, fetch page contents, and find similar pages."
+      ]
+    },
+    "oauth_server": null,
+    "oauth_client": null,
+    "created_at": "2026-08-29T20:40:48.493Z",
+    "updated_at": "2026-08-29T20:40:48.493Z"
+  },
+  {
+    "id": "01M17M1W7EKJC1GYX23Z4XA29J",
+    "tenant_id": "default",
+    "name": "deepwiki",
+    "manifest": {
+      "byte_length": 148,
+      "strings": [
+        "GtypegremoteGname",
+        "deepwiki7url",
+        "https://mcp.deepwiki.com/mcp",
+        "description",
+        "HRead documentation and ask questions about any public GitHub repository."
+      ]
+    },
+    "oauth_server": null,
+    "oauth_client": null,
+    "created_at": "2026-08-29T20:40:51.182Z",
+    "updated_at": "2026-08-29T20:40:51.182Z"
+  },
+  {
+    "id": "01M17M2F7PTF405VCSQDVG04BZ",
+    "tenant_id": "default",
+    "name": "parallel-web",
+    "manifest": {
+      "byte_length": 144,
+      "strings": [
+        "GtypegremoteGname",
+        "parallel-web7url",
+        "https://search.parallel.ai/mcp",
+        "description",
+        "=Search the web and get ranked results with extracted content."
+      ]
+    },
+    "oauth_server": null,
+    "oauth_client": null,
+    "created_at": "2026-08-29T20:41:10.646Z",
+    "updated_at": "2026-08-29T20:41:10.646Z"
+  }
+]

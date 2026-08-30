@@ -1,0 +1,19 @@
+{
+  "id": "01M17M2F7PTF405VCSQDVG04BZ",
+  "tenant_id": "default",
+  "name": "parallel-web",
+  "manifest": {
+    "byte_length": 144,
+    "strings": [
+      "GtypegremoteGname",
+      "parallel-web7url",
+      "https://search.parallel.ai/mcp",
+      "description",
+      "=Search the web and get ranked results with extracted content."
+    ]
+  },
+  "oauth_server": null,
+  "oauth_client": null,
+  "created_at": "2026-08-29T20:41:10.646Z",
+  "updated_at": "2026-08-29T20:41:10.646Z"
+}

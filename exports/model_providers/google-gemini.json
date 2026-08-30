@@ -1,0 +1,33 @@
+{
+  "tenant_id": "default",
+  "name": "google-gemini",
+  "manifest": {
+    "byte_length": 484,
+    "strings": [
+      "Gauth",
+      "?wapi_key",
+      "5AQ.Ab8RN6KzAhX7NMGa6onyPIppVeU76X1KnJq6eOq9CnaSRZE_5Agmodels",
+      "model_id",
+      "gemini-3.1-pro-previewGname",
+      "gemini-3-1-pro-preview",
+      "properties",
+      "context_lengths1048576",
+      "max_output_tokensS65536",
+      "reasoning_efforts",
+      "7lowgmediumGhigh",
+      "model_id",
+      "gemini-3.6-flashGname",
+      "gemini-3-6-flash",
+      "properties",
+      "context_lengths1048576",
+      "max_output_tokensS65536",
+      "reasoning_efforts",
+      "wminimal7lowgmediumGhighGtype",
+      "google-gemini",
+      "base_url",
+      "0https://generativelanguage.googleapis.com/v1beta"
+    ]
+  },
+  "created_at": "2026-08-29T20:35:16.575Z",
+  "updated_at": "2026-08-29T20:35:16.575Z"
+}

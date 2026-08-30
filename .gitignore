@@ -1,0 +1,37 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.pytest_cache/
+
+# Environment files
+.env
+.env.*
+
+# Local database snapshots
+*.sqlite
+*.sqlite3
+
+# Local TrueForge/agent exports that may contain sensitive runtime data
+exports/sessions/
+exports/sessions/**
+exports/*.sqlite
+exports/*.db
+
+# Node / tooling caches
+node_modules/
+.npm/
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log

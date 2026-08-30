@@ -1,0 +1,30 @@
+[
+  {
+    "tenant_id": "default",
+    "manifest": {
+      "byte_length": 231,
+      "strings": [
+        "GtypewdaytonaGauth",
+        "Nwapi_key",
+        "D<redacted-sandbox-token>",
+        "exec_timeout_msS60000",
+        "auto_stop_interval_in_minutes",
+        " auto_archive_interval_in_minutes#60",
+        "auto_delete_interval_in_minutesC7200"
+      ]
+    },
+    "created_at": "2026-08-29T20:49:51.654Z",
+    "updated_at": "2026-08-29T20:50:02.129Z",
+    "status": "ready",
+    "status_reason": null,
+    "build_metadata": {
+      "byte_length": 164,
+      "strings": [
+        "build_ref",
+        "8trueforge-build-0dab475d3d20a8333cff41f25f88e7134c424cf9",
+        "image_uri",
+        "Rtfy.jfrog.io/tfy-images/trueforge-sandbox:0dab475d3d20a8333cff41f25f88e7134c424cf9"
+      ]
+    }
+  }
+]

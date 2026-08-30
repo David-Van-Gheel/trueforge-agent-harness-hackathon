@@ -1,0 +1,17 @@
+{
+  "tenant_id": "default",
+  "name": "wiki-architect",
+  "manifest": {
+    "byte_length": 222,
+    "strings": [
+      "Gtype7gitGname",
+      "wiki-architect7url",
+      "#https://github.com/microsoft/skillsGpath",
+      "/.github/plugins/deep-wiki/skills/wiki-architect7refGmain",
+      "description",
+      "HPlan and structure a repository wiki / brief from a codebase (DeepWiki)."
+    ]
+  },
+  "created_at": "2026-08-29T20:43:29.857Z",
+  "updated_at": "2026-08-29T20:43:29.857Z"
+}
